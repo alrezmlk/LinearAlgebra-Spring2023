@@ -13,10 +13,7 @@ Repository Link: [GitHub Repository](https://github.com/alrezmlk/LinearAlgebra-S
 - [Part 1: NLP Task - Word Embedding and Word Cloud](#part-1-nlp-task---word-embedding-and-word-cloud)
 - [Part 2: Computer Vision Task - Image Compression with SVD](#part-2-computer-vision-task---image-compression-with-svd)
 - [Homework](#homework)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
